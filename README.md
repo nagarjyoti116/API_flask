@@ -18,6 +18,7 @@ This project provides a RESTful API built with Flask to manage a collection of p
 
 1. Clone the repository:
 ```
+git clone https://github.com/nagarjyoti116/API_flask
 ```
 
 2. Install the required packages:
